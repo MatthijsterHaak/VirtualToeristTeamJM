@@ -11,3 +11,17 @@ Installatie expo omgeving
 voor meer inforamtie van de installatie van react native: 
 https://reactnative.dev/docs/environment-setup 
 
+Installatie commands van de packages die zijn gebruikt:
+1.	npm i react-native-navigation-container
+2.	npm install @react-navigation/native
+3.	expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+4.	npm install @react-navigation/bottom-tabs 
+5.	npm install @react-navigation/native-stack 
+6.	npm install @react-native-async-storage/async-storage
+7.	expo install @react-native-async-storage/async-storage
+8.	expo install react-native-maps
+9.	expo install expo-location
+10.	expo install expo-task-manager 
+11.	expo install expo-web-browser     
+12.	expo install expo-barcode-scanner
+
